@@ -10,6 +10,7 @@
     <version>1.0.0.0</version>
     <modules>
         <module>spring-boot-1-quickstart</module>
+        <module>spring-boot-2-freemarker</module>
     </modules>
     
     <!-- Spring Boot 内置默认依赖 -->
